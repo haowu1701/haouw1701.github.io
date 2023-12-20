@@ -1,4 +1,4 @@
-theme: Hao Wu's Personal Website
+theme: Hao Wu
 title: Hao Wu
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
